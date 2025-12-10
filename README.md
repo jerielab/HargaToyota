@@ -1,6 +1,8 @@
 INSIGHT & INTERPRETASI ANALISIS HARGA TOYOTA COROLLA
 (Manufacture Year, Fuel Type, Engine CC)
 
+C14250147 - Jeriel Evander Ali Budiman & C14250066 Nicholas Reuben Kendengis
+
 Dataset: ToyotaCorolla.csv
 Output Workflow: 3 branch visualisasi Price Comparison
 Metode: CSV Reader → Cleaning → GroupBy → Bar Chart / Line Plot
